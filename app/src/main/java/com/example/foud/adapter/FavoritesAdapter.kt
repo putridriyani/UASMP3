@@ -9,21 +9,17 @@ import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.content.ContextCompat
 import androidx.navigation.findNavController
-import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
 import com.example.foud.R
 import com.example.foud.database.FavEntity
-import com.example.foud.models.RecipesList
 import com.example.foud.ui.FavoritesFragmentDirections
-import com.example.foud.util.RecipesDiffUtil
 import org.jsoup.Jsoup
 
 class FavoritesAdapter: RecyclerView.Adapter<FavoritesAdapter.ViewHolder>() {
 
     private var recipes = emptyList<FavEntity>()
 
-    //---------------------
     class ViewHolder(view: View): RecyclerView.ViewHolder(view){
 
         val card: ConstraintLayout = view.findViewById(R.id.recipes_card_back)
@@ -42,8 +38,6 @@ class FavoritesAdapter: RecyclerView.Adapter<FavoritesAdapter.ViewHolder>() {
         var green = ContextCompat.getColor(view.context, R.color.vegan)
         var nogreen = ContextCompat.getColor(view.context, R.color.notvegan)
     }
-
-
 
 
     override fun getItemCount(): Int {
