@@ -1,11 +1,11 @@
 ResepKita: Aplikasi resep makanan yang dikembangkan dg bahasa Kotlin yang mencakup intent, navigasi, local database, recyclerview, dan retrofit dg menggunakan API dari: https://spoonacular.com/food-api
 
-  Lab 3 Mobile Programming
-  Anggota:
-  Bima 211401005
-  Putri Andriyani 211401008
-  Elisa Lolita Haganta Bangun 211401052
-  Reggy Arauna Aritonang 211401070
+<br /> Lab 3 Mobile Programming
+<br /> Anggota:
+<br /> Bima 211401005
+<br /> Putri Andriyani 211401008
+<br /> Elisa Lolita Haganta Bangun 211401052
+<br /> Reggy Arauna Aritonang 211401070
 
 Demo:
 Home Fragment
