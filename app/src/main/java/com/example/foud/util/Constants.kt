@@ -4,11 +4,9 @@ class Constants {
 
     // ! https://api.spoonacular.com/recipes/complexSearch?number=10&apiKey=e67fadea9d9546d184f421d0e49b22bf&type=fingerfood&diet=Vegan&addRecipeInformation=true&fillIngredients=true
 
-    // ! https://api.spoonacular.com/food/jokes/random?apiKey=e67fadea9d9546d184f421d0e49b22bf
-
     companion object{
         const val BASE_URL = "https://api.spoonacular.com"
-        const val API_KEY = "4113f6e963b7403d97be1bb2e281836d"
+        const val API_KEY = "1c8adb07bb1c4ca089d0a819096ad8df"
         const val IMAGE_URL = "https://spoonacular.com/cdn/ingredients_100x100/"
 
         // ? api queries

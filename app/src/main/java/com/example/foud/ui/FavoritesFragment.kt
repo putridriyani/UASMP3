@@ -49,9 +49,9 @@ class FavoritesFragment : Fragment() {
     private fun getFavList() {
         mainViewModel.getFavList.observe(viewLifecycleOwner, {response-> response?.let {
             rcAdapter.setData(it)
-                Log.d("favlist", it.size.toString())
-            }
-      })
+            Log.d("favlist", it.size.toString())
+        }
+        })
     }
 
 }
