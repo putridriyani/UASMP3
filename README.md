@@ -1,14 +1,14 @@
-## ResepKita: 
-###Aplikasi resep makanan yang dikembangkan dg bahasa Kotlin yang mencakup intent, navigasi, local database, recyclerview, dan retrofit dg menggunakan API dari: https://spoonacular.com/food-api
+## **ResepKita:** 
+**Aplikasi resep makanan yang dikembangkan dg bahasa Kotlin yang mencakup intent, navigasi, local database, recyclerview, dan retrofit dg menggunakan API dari: https://spoonacular.com/food-api**
 <br />
-<br /> ### Lab 3 Mobile Programming
+<br /> **Lab 3 Mobile Programming**
 <br /> Anggota:
 <br /> Bima 211401005
 <br /> Putri Andriyani 211401008
 <br /> Elisa Lolita Haganta Bangun 211401052
 <br /> Reggy Arauna Aritonang 211401070
 
-##Demo:<br/>
+**Demo:**<br/>
 Home Fragment <br/>
 ![IMG-20231225-WA0012](https://github.com/putridriyani/UASMP3/assets/114595104/2e0a0c40-b1d4-44e7-b245-28647c58a75c)
 <br/>
